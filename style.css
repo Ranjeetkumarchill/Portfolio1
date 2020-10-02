@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+span{
+    margin: 0;
+    font-family:'Henny Penny';
+    font-size: 65px;
+    font-weight: 300;
+}
+h2{
+    font-size: 40px;
+    font-style: italic;
+    color: #00b7c2;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-size: 25px;
+    color: #ff5f40;
+}
+.top-container{
+    background-color:#d9ecf2;
+    position: relative;
+
+    padding-top: 100px;
+    
+}
+.middle-container{
+   background-color:#d9ecf2;
+  padding-top: 50px;
+}
+.bottom-container{
+    background-color: #d9ecf2;
+    
+    padding-top: 10px;
+}
+.skill-row2{
+   padding-top: 20px;
+}
+.imga{
+    width: 15%;
+}
+.top-cloud{
+   
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+.bottom-cloud{
+   position: absolute;
+   left: 300px;
+   bottom: 300px;
+   
+}
+.mountain{
+    position: relative;
+}
+hr{
+    border: dotted 8px ;
+    width: 4%;
+    border-bottom: none;
+    color: rgb(173, 173, 184);
+}
+.web{
+    width: 15%;
+}
+.code{
+    width: 15%;
+}
+.btn{
+   appearance: button;
+  border-style: solid;
+  border-color: rgb(228, 19, 19);
+}
+.footer-link{
+    margin-right: 5px;
+}
